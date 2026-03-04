@@ -1,4 +1,8 @@
 # Loan-Details-Analysis-and-Performance-Dashboard
+
+Interactive Power BI dashboard analyzing a ₹1.30Cr loan portfolio (2023-2026). Features advanced DAX measures, Sync Slicers, and time-series trend analysis to evaluate default rates and optimize financial decision-making.
+
+
 The main objectives of this project are:
 
 •	To analyse loan distribution across different states and purposes.
