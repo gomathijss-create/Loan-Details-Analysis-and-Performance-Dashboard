@@ -98,6 +98,12 @@ E.g.,
  • Same as monthly payment Below average category has greater loan term compared to Average and Above Average.
 
  • Top 10 states filtered by sum of default count from 50 states. This helps in analysing the Risk.
+
+
+ <img width="1002" height="564" alt="image" src="https://github.com/user-attachments/assets/1d3fd750-8be8-4d6f-8639-544024fdbcba" /> 
+
+ 
+
  
 
  <img width="926" height="523" alt="image" src="https://github.com/user-attachments/assets/7e489c57-2398-4ee0-ad2b-43e2aca20320" /> 
