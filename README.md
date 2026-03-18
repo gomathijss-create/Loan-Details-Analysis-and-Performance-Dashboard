@@ -40,7 +40,7 @@ The main objectives of this project are:
 
 ## 🛠️ Tools & Technologies
 
- - **Excel:** Data cleaning, transformation, and Pivot Tables.
+ - **Excel:** Data cleaning, transformation, Vlookup and Pivot Tables.
  - **Power BI:** Data modelling, DAX calculations, visualization, and interactive dashboard creation.
  - **Documentation:** MS Word
 
